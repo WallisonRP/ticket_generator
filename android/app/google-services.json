@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "36225708648",
+    "project_id": "gerenciador-de-senhas-58ed9",
+    "storage_bucket": "gerenciador-de-senhas-58ed9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36225708648:android:c183a2edac30d3209941dd",
+        "android_client_info": {
+          "package_name": "com.example.ticket_generator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "36225708648-okhksgq6n60rvqikdf7ug74id0c5ilnq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8_1u5NGfA1rw7wVR15PXu9aKCep110F8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "36225708648-okhksgq6n60rvqikdf7ug74id0c5ilnq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
