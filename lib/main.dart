@@ -3,6 +3,7 @@ import 'package:ticket_generator/intro.dart';
 import 'package:ticket_generator/shop_page.dart';
 
 import 'package:firebase_core/firebase_core.dart';
+import 'package:ticket_generator/teste.dart';
 import 'firebase_options.dart';
 
 // ...
@@ -14,6 +15,6 @@ void main() async {
     options: DefaultFirebaseOptions.currentPlatform,
 );
   runApp(MaterialApp(
-    home: ShopPage()
+    home: Teste()
   ));
 }
