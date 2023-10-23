@@ -7,7 +7,7 @@ import 'package:ticket_generator/teste.dart';
 import 'firebase_options.dart';
 
 // ...
-
+asdadasdasd
 
 
 void main() async {
